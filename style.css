@@ -1,0 +1,21 @@
+
+#title,
+.link{
+    font-family: 'Norse', sans-serif, serif;
+    color: #e4b7b7;
+}
+#title{
+text-align: center;
+}
+.link{
+font-size: 30px;
+}
+.img{
+width: 200px;
+height: auto; 
+border: 2px dashed white;
+
+}
+html{
+    background-color: #010203 ;
+}
