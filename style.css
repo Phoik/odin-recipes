@@ -1,9 +1,18 @@
+/* Sets universal style for titles */
 h2,
 h3,
 #title,
+#home,
 .link{
     font-family: 'Norse', sans-serif, serif;
     color: #e4b7b7;
+}
+
+
+/* Specific Changes*/
+
+#home{
+    font-size: 20px;
 }
 #title{
 text-align: center;
@@ -21,4 +30,8 @@ html{
 }
 .mainTxt{
     color: white;
+}
+
+.test01.test02{
+    font-size:  50px;
 }
