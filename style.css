@@ -1,4 +1,5 @@
-
+h2,
+h3,
 #title,
 .link{
     font-family: 'Norse', sans-serif, serif;
@@ -14,8 +15,10 @@ font-size: 30px;
 width: 200px;
 height: auto; 
 border: 2px dashed white;
-
 }
 html{
-    background-color: #010203 ;
+    background-color: #010203ea ;
+}
+.mainTxt{
+    color: white;
 }
